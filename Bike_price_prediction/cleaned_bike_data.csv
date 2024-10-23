@@ -1,0 +1,268 @@
+company,Engine_warranty,Engine_type,Fuel_type,Cubic_capacity,Fuel_Capacity,Price
+Bajaj,5.0,Single,Petrol,220,10,113000
+TVS,5.0,V-twin,Petrol,120,11,70000
+Hero,5.0,Boxer,Petrol,140,12,85000
+Honda,5.0,Single,Petrol,150,13,90000
+Suzuki,5.0,V-twin,Petrol,350,14,65000
+Royal Enfield,5.0,Boxer,Petrol,350,15,180000
+Yamaha,5.0,Single,Petrol,150,16,65000
+KTM,5.0,V-twin,Petrol,300,17,150000
+Mahindra,5.0,Boxer,Petrol,100,18,89000
+Kawasaki,5.0,Single,Petrol,170,19,99999
+Ducati,5.0,V-twin,Petrol,320,20,250000
+BMW,10.0,Boxer,Petrol,420,21,350000
+Banelli,10.0,Single,Petrol,220,22,130000
+Harley Davidson,10.0,V-twin,Petrol,140,23,340000
+Bajaj,5.0,Two-Stroke,Petrol,150,15,89000
+TVS,10.0,Two-Stroke,Petrol,170,16,99000
+Hero,10.0,V-twin,Petrol,125,17,74000
+Honda,10.0,V-twin,Petrol,155,18,79999
+Suzuki,2.0,V-twin,Petrol,175,19,87999
+Royal Enfield,2.0,V-twin,Petrol,250,20,185999
+Yamaha,4.0,Boxer,Petrol,155,15,90000
+KTM,6.0,Boxer,Petrol,360,16,99999
+Mahindra,5.0,Boxer,Petrol,125,17,55000
+Kawasaki,4.0,Boxer,Petrol,350,18,350000
+Ducati,6.0,Boxer,Petrol,400,19,459999
+BMW,7.0,Boxer,Petrol,469,20,330000
+Banelli,8.0,Single,Petrol,500,21,449090
+Harley Davidson,10.0,Single,Petrol,550,22,529999
+Mahindra,5.0,Single,Electricity,135,16,65000
+Mahindra,4.0,Single,Petrol,150,17,70000
+Mahindra,5.0,Single,Electricity,135,18,68000
+Mahindra,5.0,V-twin,Petrol,150,19,77990
+Mahindra,5.0,Single,Petrol,170,20,89000
+Harley Davidson,5.0,Boxer,Petrol,250,15,189000
+Harley Davidson,4.0,Single,Petrol,300,16,240000
+Harley Davidson,5.0,Single,Petrol,320,17,300000
+Harley Davidson,5.0,Single,Petrol,350,18,358999
+Banelli,5.0,V-twin,Petrol,400,19,550000
+Banelli,4.0,Single,Petrol,450,20,590000
+Banelli,5.0,Boxer,Petrol,500,21,623000
+Banelli,5.0,Single,Petrol,525,22,650000
+BMW,10.0,V-twin,Petrol,895,20,890000
+BMW,10.0,Single,Petrol,990,15,990000
+BMW,10.0,Boxer,Petrol,1025,16,1200000
+BMW,10.0,V-twin,Petrol,1225,17,1234500
+Kawasaki,7.0,Single,Petrol,649,18,679999
+Kawasaki,7.0,Boxer,Petrol,729,19,549999
+Kawasaki,7.0,Boxer,Petrol,899,20,767888
+Kawasaki,7.0,Boxer,Petrol,917,21,898999
+KTM,5.0,V-twin,Petrol,210,22,124500
+KTM,5.0,Single,Petrol,275,20,145000
+KTM,4.0,Boxer,Petrol,390,15,219500
+KTM,5.0,V-twin,Petrol,390,16,232000
+KTM,5.0,Single,Petrol,125,17,124500
+KTM,3.0,Boxer,Petrol,300,18,135000
+Honda,3.0,Boxer,Petrol,125,19,70000
+Honda,3.0,Boxer,Petrol,135,20,64000
+Honda,3.0,Single,Petrol,150,21,79999
+Honda,3.0,Boxer,Petrol,175,22,75000
+Honda,3.0,V-twin,Petrol,190,20,89000
+Honda,3.0,V-twin,Petrol,200,15,125000
+Hero,4.0,V-twin,Petrol,135,16,75000
+Hero,4.0,V-twin,Petrol,145,17,77000
+Hero,4.0,V-twin,Petrol,170,18,81000
+Hero,4.0,V-twin,Petrol,125,19,55000
+Hero,4.0,V-twin,Petrol,125,20,56700
+Hero,5.0,V-twin,Petrol,130,21,61000
+Ducati,5.0,V-twin,Petrol,340,20,260000
+Ducati,3.0,Single,Petrol,350,21,219500
+Ducati,3.0,V-twin,Petrol,380,22,232000
+Ducati,3.0,Two-Stroke,Petrol,400,23,124500
+Ducati,5.0,Single,Petrol,500,24,260000
+Ducati,3.0,V-twin,Petrol,590,25,219500
+Ducati,5.0,V-twin,Petrol,650,26,232000
+Ducati,5.0,V-twin,Petrol,700,27,450000
+Ducati,5.0,Single,Petrol,890,28,650000
+Ducati,5.0,Single,Petrol,900,29,790000
+Bajaj,5.0,Single,Petrol,150,20,103000
+Bajaj,5.0,V-twin,Petrol,150,21,101000
+Bajaj,5.0,V-twin,Petrol,200,22,650000
+Bajaj,3.0,V-twin,Petrol,160,23,790000
+Bajaj,3.0,Single,Petrol,340,24,103000
+Bajaj,3.0,Single,Petrol,250,25,124500
+Bajaj,3.0,Single,Petrol,200,26,134500
+Yamaha,5.0,Single,Petrol,150,15,64500
+Yamaha,4.0,Single,Petrol,340,16,65000
+Yamaha,5.0,Single,Petrol,250,17,79000
+Yamaha,4.0,V-twin,Petrol,200,18,103000
+Yamaha,5.0,V-twin,Petrol,150,19,101000
+Yamaha,6.0,V-twin,Petrol,340,20,650000
+Yamaha,5.0,Single,Petrol,250,21,790000
+Yamaha,6.0,Single,Petrol,340,22,103000
+Yamaha,5.0,Single,Petrol,250,23,124500
+Yamaha,6.0,Single,Petrol,200,24,134500
+Suzuki,4.0,V-twin,Petrol,560,25,790000
+Suzuki,5.0,V-twin,Petrol,340,26,103000
+Suzuki,6.0,V-twin,Petrol,250,27,124500
+Suzuki,5.0,Two-Stroke,Petrol,200,28,134500
+Suzuki,6.0,Two-Stroke,Petrol,350,29,650000
+Suzuki,5.0,Two-Stroke,Petrol,340,30,790000
+Suzuki,6.0,Two-Stroke,Petrol,250,31,950000
+Suzuki,4.0,Two-Stroke,Petrol,500,32,990000
+Suzuki,5.0,Two-Stroke,Petrol,550,33,790000
+Suzuki,6.0,Two-Stroke,Petrol,560,34,950000
+Suzuki,5.0,Two-Stroke,Petrol,340,35,123400
+Bajaj,4.0,Single,Petrol,220,10,114000
+TVS,5.0,V-twin,Petrol,120,11,80000
+Hero,6.0,Boxer,Petrol,140,12,86000
+Honda,4.0,Single,Petrol,150,13,91000
+Suzuki,5.0,V-twin,Petrol,350,14,66000
+Royal Enfield,6.0,Boxer,Petrol,350,15,189000
+Yamaha,4.0,Single,Petrol,150,16,65000
+KTM,10.0,V-twin,Petrol,300,17,130000
+Mahindra,2.0,Boxer,Petrol,100,18,86000
+Kawasaki,2.0,Single,Petrol,170,19,99599
+Ducati,4.0,V-twin,Petrol,320,20,250000
+BMW,5.0,Boxer,Petrol,420,21,350000
+Banelli,9.0,Single,Petrol,220,22,130000
+Harley Davidson,10.0,V-twin,Petrol,140,23,340000
+Bajaj,5.0,Two-Stroke,Petrol,150,15,89000
+TVS,4.0,Two-Stroke,Petrol,170,16,99000
+Hero,5.0,V-twin,Petrol,125,17,74000
+Honda,6.0,V-twin,Petrol,155,18,79999
+Suzuki,7.0,V-twin,Petrol,175,19,97999
+Royal Enfield,8.0,V-twin,Petrol,250,21,195999
+Bajaj,4.0,Two-Stroke,Petrol,150,22,99000
+TVS,4.0,Two-Stroke,Petrol,170,23,109000
+Hero,5.0,V-twin,Petrol,125,24,64000
+Honda,5.0,V-twin,Petrol,155,25,69999
+Suzuki,6.0,V-twin,Petrol,175,26,87999
+Royal Enfield,6.0,V-twin,Petrol,250,27,195999
+Royal Enfield,4.0,Boxer,Petrol,350,15,189000
+Yamaha,5.0,Single,Petrol,150,16,64000
+KTM,6.0,V-twin,Petrol,300,17,135000
+Mahindra,7.0,Boxer,Petrol,100,18,87000
+Kawasaki,8.0,Single,Petrol,170,19,95599
+Ducati,9.0,V-twin,Petrol,320,20,255000
+BMW,3.0,Boxer,Petrol,420,21,355000
+Banelli,12.0,Single,Petrol,220,22,135000
+Harley Davidson,13.0,V-twin,Petrol,140,23,345000
+TVS,10.0,Two-Stroke,Petrol,170,16,99000
+Hero,10.0,V-twin,Petrol,125,17,74000
+Honda,10.0,V-twin,Petrol,155,18,79999
+Suzuki,2.0,V-twin,Petrol,175,19,87999
+Royal Enfield,2.0,V-twin,Petrol,250,20,185999
+Yamaha,4.0,Boxer,Petrol,155,15,90000
+KTM,6.0,Boxer,Petrol,360,16,99999
+Mahindra,5.0,Boxer,Petrol,125,17,55000
+Kawasaki,4.0,Boxer,Petrol,350,18,350000
+Ducati,6.0,Boxer,Petrol,400,19,459999
+TVS,5.0,V-twin,Petrol,320,11,180000
+Hero,6.0,Boxer,Petrol,140,12,76000
+Honda,4.0,Single,Petrol,1350,15,81000
+Suzuki,5.0,V-twin,Petrol,450,14,106000
+Royal Enfield,6.0,Boxer,Petrol,450,25,289000
+Yamaha,4.0,Single,Petrol,150,16,63000
+KTM,10.0,V-twin,Petrol,350,17,150000
+Mahindra,2.0,Boxer,Petrol,100,12,66000
+Kawasaki,12.0,Single,Petrol,270,19,199599
+Ducati,14.0,V-twin,Petrol,420,20,350000
+BMW,7.0,Boxer,Petrol,420,21,380000
+Banelli,10.0,Single,Petrol,425,22,230000
+Harley Davidson,12.0,V-twin,Petrol,440,23,440000
+Hero,8.0,Boxer,Petrol,240,15,96000
+Honda,3.0,Single,Petrol,160,13,85000
+Suzuki,5.0,V-twin,Petrol,250,14,76000
+Royal Enfield,8.0,Boxer,Petrol,350,15,199000
+Yamaha,4.0,Single,Petrol,150,18,67000
+KTM,8.0,V-twin,Petrol,320,17,135000
+Mahindra,3.0,Boxer,Petrol,120,18,66000
+Kawasaki,8.0,Single,Petrol,370,19,95599
+Ducati,4.0,V-twin,Petrol,320,22,260099
+BMW,5.0,Boxer,Petrol,520,21,550000
+Banelli,10.0,Single,Petrol,220,22,190099
+Yamaha,6.0,Boxer,Petrol,195,12,95000
+KTM,7.0,Boxer,Petrol,360,11,109999
+Mahindra,6.0,Boxer,Petrol,155,17,73500
+Kawasaki,6.0,Boxer,Petrol,300,15,320000
+Ducati,6.0,Boxer,Petrol,450,19,489999
+BMW,8.0,Boxer,Petrol,409,20,310000
+Banelli,10.0,Single,Petrol,500,21,409090
+Harley Davidson,12.0,Single,Petrol,590,25,629999
+Mahindra,6.0,Single,Petrol,150,17,73000
+Hero,12.0,V-twin,Petrol,175,17,84099
+Honda,10.0,V-twin,Petrol,155,15,77999
+Suzuki,5.0,V-twin,Petrol,200,19,97999
+Royal Enfield,2.0,V-twin,Petrol,270,20,195999
+Yamaha,8.0,Boxer,Petrol,400,20,190000
+KTM,10.0,Boxer,Petrol,360,20,199999
+Mahindra,10.0,Boxer,Petrol,225,17,155000
+Kawasaki,10.0,Boxer,Petrol,450,18,390000
+Ducati,10.0,Boxer,Petrol,300,19,359999
+BMW,10.0,Boxer,Petrol,469,25,320000
+Banelli,8.0,Single,Petrol,500,19,439090
+Harley Davidson,10.0,Single,Petrol,650,22,629999
+Revolt Motors,6.0,V-twin,Petrol,400,20,155000
+Revolt Motors,6.0,Boxer,Petrol,200,17,390000
+Revolt Motors,6.0,Boxer,Petrol,250,18,359999
+Revolt Motors,6.0,Boxer,Petrol,150,19,320000
+Revolt Motors,6.0,Boxer,Petrol,180,25,439090
+Revolt Motors,6.0,Boxer,Petrol,180,19,629999
+Revolt Motors,6.0,Boxer,Petrol,450,22,449090
+Revolt Motors,6.0,Single,Petrol,500,23,459090
+CFMoto,8.0,Boxer,Petrol,650,20,490000
+CFMoto,8.0,V-twin,Petrol,650,17,389999
+CFMoto,8.0,Boxer,Petrol,350,18,320900
+CFMoto,8.0,Boxer,Petrol,200,19,539090
+CFMoto,8.0,Boxer,Petrol,250,25,679999
+CFMoto,8.0,Boxer,Petrol,450,19,678999
+CFMoto,8.0,Boxer,Petrol,550,22,689999
+CFMoto,8.0,Boxer,Petrol,350,23,579909
+CFMoto,8.0,Single,Petrol,750,24,579999
+CFMoto,8.0,Single,Petrol,650,25,479999
+CFMoto,8.0,Single,Petrol,650,26,379999
+Triumph,12.0,Dual Stroke,Petrol,350,25,879999
+Triumph,12.0,Dual Stroke,Petrol,400,19,978999
+Triumph,12.0,Dual Stroke,Petrol,500,22,1089999
+Triumph,12.0,Dual Stroke,Petrol,600,23,1179909
+Triumph,12.0,Dual Stroke,Petrol,650,24,1579999
+Triumph,12.0,Dual Stroke,Petrol,700,25,1379999
+Triumph,12.0,Dual Stroke,Petrol,900,26,399999
+Triumph,12.0,Dual Stroke,Petrol,979,25,545909
+Triumph,12.0,Dual Stroke,Petrol,1000,19,989999
+Triumph,12.0,Dual Stroke,Petrol,1025,22,619999
+Triumph,12.0,Dual Stroke,Petrol,679,23,809999
+Triumph,12.0,Dual Stroke,Petrol,300,24,109999
+Triumph,12.0,Dual Stroke,Petrol,250,25,123456
+Triumph,12.0,Dual Stroke,Petrol,1200,26,1679900
+Triumph,12.0,Dual Stroke,Petrol,1250,27,1779990
+Jawa,8.0,Oxidiser-Air inlet,Petrol,250,25,150000
+Jawa,8.0,Oxidiser-Air inlet,Petrol,220,19,179999
+Jawa,8.0,Oxidiser-Air inlet,Petrol,230,22,155000
+Jawa,8.0,Oxidiser-Air inlet,Petrol,300,23,189000
+Jawa,8.0,Oxidiser-Air inlet,Petrol,350,24,145000
+Jawa,8.0,Oxidiser-Air inlet,Petrol,400,25,259999
+Jawa,8.0,Oxidiser-Air inlet,Petrol,420,22,249999
+22Kymco,5.0,Boxer,Electricity,130,10,55000
+22Kymco,5.0,Boxer,Electricity,145,11,54700
+22Kymco,4.0,Single,Electricity,160,12,59760
+22Kymco,5.0,Single,Electricity,185,13,61568
+22Kymco,5.0,Single,Electricity,205,14,63599
+22Kymco,5.0,Single,Electricity,220,15,67989
+22Kymco,5.0,Single,Electricity,235,16,69879
+TVS,3.0,Single,Petrol,125,17,74500
+Yamaha,4.0,Single,Petrol,125,18,75000
+Honda,5.0,Single,Petrol,125,19,76500
+Hero,6.0,Boxer,Petrol,130,15,77500
+Hero,6.0,Boxer,Petrol,155,16,74500
+Hero,6.0,Boxer,Petrol,195,17,76550
+Hero,6.0,Boxer,Petrol,210,18,76590
+Okinawa,4.0,Boxer,Petrol,185,18,61568
+Okinawa,4.0,Boxer,Petrol,205,19,63599
+Okinawa,4.0,Boxer,Petrol,220,15,67989
+Okinawa,4.0,Boxer,Petrol,235,16,69879
+Okinawa,4.0,Boxer,Petrol,125,17,74500
+Okinawa,4.0,Boxer,Petrol,125,18,75000
+Okinawa,4.0,Boxer,Petrol,125,18,76500
+Okinawa,4.0,Boxer,Petrol,185,19,80000
+Okinawa,4.0,Boxer,Petrol,205,15,78000
+Bgauss,3.0,Boxer,Petrol,125,16,79666
+Bgauss,3.0,Boxer,Petrol,125,17,80416
+Bgauss,3.0,Boxer,Petrol,125,18,81166
+Bgauss,3.0,Boxer,Petrol,185,19,81916
+Bgauss,3.0,Boxer,Petrol,205,20,82666
+Bgauss,3.0,Boxer,Petrol,185,21,83416
+Bgauss,3.0,Boxer,Petrol,205,22,84166
+Bgauss,3.0,Boxer,Petrol,220,23,84916
