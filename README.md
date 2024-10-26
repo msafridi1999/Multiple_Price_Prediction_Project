@@ -28,7 +28,7 @@ Welcome to the Price Prediction Project, an end-to-end solution for predicting p
 # Demo
 >You can explore the live demo of this project here:
 
->🔗Price Prediction Project on Render
+🔗 Check out the live demo here: Price Prediction Project on Render
 
 # Installation
 
@@ -112,7 +112,7 @@ The app should now be running on http://localhost:8501.
 
 >Adding feature importance analysis to understand the key price-driving features.
 
-#Acknowledgments
+# Acknowledgments
 
 >Special thanks to CampusX and Nitish Singh Sir for their support and guidance throughout my learning journey. Their teachings have been instrumental in building my knowledge in data science and machine learning.
 
