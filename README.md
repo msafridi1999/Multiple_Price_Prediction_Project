@@ -28,7 +28,8 @@ Welcome to the Price Prediction Project, an end-to-end solution for predicting p
 # Demo
 >You can explore the live demo of this project here:
 
-🔗 Check out the live demo here: Price Prediction Project on Render
+🔗 Check out the live demo here: [Price Prediction Project on Render](https://price-prediction-project.onrender.com/)
+
 
 # Installation
 
